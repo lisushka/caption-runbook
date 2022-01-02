@@ -8,4 +8,4 @@
 * Spell-check using Vale (this will throw some false positives)
 * Set timings (Vosk potentially has some ability to do this; need to investigate it better)
 * Convert `.srt` file to `.ass` (need to find an open-source converter that's actually usable)
-* Burn subtitles into edited video using FFMpeg
+* Burn subtitles into edited video using FFmpeg
