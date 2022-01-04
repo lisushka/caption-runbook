@@ -9,3 +9,7 @@
 * Set timings (Vosk potentially has some ability to do this; need to investigate it better)
 * Convert `.srt` file to `.ass` (need to find an open-source converter that's actually usable)
 * Burn subtitles into edited video using FFmpeg
+
+## Resources
+
+* [**The Complete Guide to Captioned Videos**](https://meryl.net/captioned-videos-complete-guide/), by Meryl Evans.  This is the most comprehensive guide to captioning video that I have found on the Internet.
